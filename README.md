@@ -1,5 +1,5 @@
 # Tutorial
 
-[in progress]: http://wiremock.org/docs/getting-started/
+1.http://wiremock.org/docs/getting-started/ - (in progress)
 
 # 
